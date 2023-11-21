@@ -1,0 +1,1 @@
+Dopo aver creato un nuovo database e aver importato lo schema allegato, eseguite le query del file allegato.
